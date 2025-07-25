@@ -22,8 +22,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [.](https://your-solution-url.com)
-- Live Site URL: [.](https://your-live-site-url.com)
+- Solution URL: [link](https://github.com/Fikri-20/Recipe-Page)
+- Live Site URL: [link](https://fikri-20.github.io/Recipe-Page/)
 
 ## My process
 
